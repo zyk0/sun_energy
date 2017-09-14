@@ -2,8 +2,10 @@
 # Created by https://www.gitignore.io/
 
 
-
+acidus/
 node_modules/
 README.md
+README.txt
 *.log
-acidus/
+desktop.ini
+
