@@ -148,3 +148,8 @@ body > .container {
     font-size: 200%; /* Размер шрифта в процентах */ 
 }
 /* Navbar Logo END */
+
+
+.colomn-news{
+	margin: 90px 0px 0px 0px;
+}

@@ -1,16 +1,14 @@
 {
-  "name": "sun energy",
+  "name": "sunenergy",
   "version": "1.0.0",
-  "description": "sun energy. site on express",
+  "description": "sunenergy. site on express",
   "repository": {
     "type": "git",
     "url": "https://github.com/zyk0/"
   },
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint main.js",
-    "lint:watch": "eslint-watch main.js -watch"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "zyk0",
   "license": "ISC",
@@ -18,17 +16,11 @@
     "express": "^4.13.4",
     "express-handlebars": "^3.0.0",
     "express-router": "0.0.1",
-    "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.1",
-    "gulp-csso": "^3.0.0",
-    "gulp-watch": "^4.3.11",
-    "public-ip": "^2.3.5",
-    "request": "^2.80.0",
+    "request": "^2.83.0",
     "serve-favicon": "^2.4.2"
   },
   "devDependencies": {
     "colors": "^1.1.2",
-    "nodemon": "^1.11.0",
-    "winston": "^2.3.1"
+    "nodemon": "^1.11.0"
   }
 }
