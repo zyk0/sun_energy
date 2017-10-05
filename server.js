@@ -58,7 +58,7 @@ app.get('/login', function (req, res) {
   console.log(' ща мы тебя направим на главную страничку');
   //res.redirect('/secret_page');
   //редирект на главную,т.к. страницы login.hbs нету! совсем нету!!
-  //нужно сделать редирект на /secret_page'  с покером и красотками
+  //нужно сделать редирект на /secret_page' 
 });
 
 app.get('/logout', function (req, res) {
