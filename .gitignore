@@ -9,3 +9,4 @@ README.txt
 *.log
 desktop.ini
 Procfile
+credentials.js
